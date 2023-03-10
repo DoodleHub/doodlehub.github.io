@@ -6,6 +6,7 @@ module.exports = {
   extends: ["plugin:react/recommended", "standard"],
   overrides: [
     {
+      files: ["**/*.test.js"],
       env: {
         jest: true
       }
