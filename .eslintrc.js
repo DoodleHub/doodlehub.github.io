@@ -18,9 +18,11 @@ module.exports = {
   },
   plugins: ["react"],
   rules: {
-    quotes: ["error", "double", { avoidEscape: true }],
+    quotes: ["warn", "double", { avoidEscape: true, allowTemplateLiterals: true }],
     semi: ["error", "always"],
     "comma-dangle": ["error", "never"],
-    "react/react-in-jsx-scope": "off"
+    "react/react-in-jsx-scope": "off",
+    "react/no-unescaped-entities": 0,
+    "no-unused-vars": "warn"
   }
 };
