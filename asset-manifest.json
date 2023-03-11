@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.26048b45.css",
+    "main.js": "/static/js/main.b61697d3.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/thumbnail.jpeg": "/static/media/thumbnail.6dfa1b36941a0e540c69.jpeg",
+    "static/media/technology.jpg": "/static/media/technology.6d7604f39c67b5157d8a.jpg",
+    "index.html": "/index.html",
+    "main.26048b45.css.map": "/static/css/main.26048b45.css.map",
+    "main.b61697d3.js.map": "/static/js/main.b61697d3.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26048b45.css",
+    "static/js/main.b61697d3.js"
+  ]
+}
